@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/govau/cf-common/env"
+	"github.com/cloud-gov/cf-common/env"
 )
 
 func ExampleWithOSLookup() {

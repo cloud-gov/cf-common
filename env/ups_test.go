@@ -3,7 +3,7 @@ package env
 import (
 	"testing"
 
-	"github.com/cloudfoundry-community/go-cfenv"
+	"github.com/cloud-gov/go-cfenv"
 )
 
 func TestWithUPSLookup(t *testing.T) {

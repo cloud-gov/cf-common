@@ -9,7 +9,7 @@ import (
 	"sync"
 	"syscall"
 
-	cfenv "github.com/cloudfoundry-community/go-cfenv"
+	cfenv "github.com/cloud-gov/go-cfenv"
 
 	"github.com/bgentry/que-go"
 	"github.com/jackc/pgx"
