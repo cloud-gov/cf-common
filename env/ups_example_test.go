@@ -3,8 +3,8 @@ package env_test
 import (
 	"fmt"
 
-	"github.com/cloudfoundry-community/go-cfenv"
-	"github.com/govau/cf-common/env"
+	"github.com/cloud-gov/go-cfenv"
+	"github.com/cloud-gov/cf-common/env"
 )
 
 func ExampleWithUPSLookup() {

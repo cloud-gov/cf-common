@@ -3,7 +3,7 @@ package env
 import (
 	"fmt"
 
-	"github.com/cloudfoundry-community/go-cfenv"
+	"github.com/cloud-gov/go-cfenv"
 )
 
 // WithUPSLookup configures the VarSet to use the CloudFoundry user-provided
