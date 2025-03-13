@@ -1,6 +1,7 @@
 module github.com/cloud-gov/cf-common/v2
 
-go 1.22.4
+go 1.23.0
+
 toolchain go1.23.7
 
 require github.com/cloud-gov/go-cfenv v1.19.1
